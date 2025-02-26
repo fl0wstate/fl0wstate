@@ -16,7 +16,7 @@
 - If I were in Jujutsu Kaisen, I’d be summoning shikigami made of pointers, regex, and async functions.
 
 ## Current Projects-flow
-- creating a simple socket-web-server for my custom chat terminal chat room - [socketServer](https://github.com/fl0wstate/c-deep-dive/tree/main/sockets)
+- creating a simple socket-web-server for my custom terminal chat room - [socketServer](https://github.com/fl0wstate/c-deep-dive/tree/main/sockets)
 - building discord-like chat room but to be entirely runned on the terminal - [tchat](https://github.com/fl0wstate/c-deep-dive/tree/main/chat-app)
 ## Lets Connect
 - [X](https://x.com/k_flowstate)
