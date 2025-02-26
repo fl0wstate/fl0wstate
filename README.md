@@ -11,7 +11,9 @@
 </table>
 
 ## About Me
-I’m a coder who thrives in the terminal and the browser alike. C gives me control down to the metal, Python lets me prototype like a mad scientist, and JavaScript brings my ideas to life on the web. If I were in Jujutsu Kaisen, I’d be summoning shikigami made of pointers, regex, and async functions.
+- I’m a coder who thrives in the terminal and the browser alike. 
+- C gives me control down to the metal, Python lets me prototype like a mad scientist, and JavaScript brings my ideas to life on the web. 
+- If I were in Jujutsu Kaisen, I’d be summoning shikigami made of pointers, regex, and async functions.
 
 
 ## Lets Connect
