@@ -5,7 +5,7 @@
         </td>
         <td style="width:50%">
             <h3>"I am flowstate... Megumi is just me in the jjk universe..." </h3>
-            <p>I like .mp4 files</p>
+            <p>I like to code in C</p>
         </td>
     </tr>
 </table>
