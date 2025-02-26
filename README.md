@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Mk!
+## 👋 Hello, I'm flowstate!
 
 * 💻 Welcome to my c/python space where i am going to learn python & c programming for 100 days
 * 🌐 Solving python question from all over tweeter and the internet & making some interesting c programs
