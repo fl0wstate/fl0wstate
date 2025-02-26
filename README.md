@@ -1,5 +1,3 @@
-# Flowstate C's Code Realm
-
 <table>
     <tr>
         <td>
@@ -15,17 +13,6 @@
 ## About Me
 I’m a coder who thrives in the terminal and the browser alike. C gives me control down to the metal, Python lets me prototype like a mad scientist, and JavaScript brings my ideas to life on the web. If I were in Jujutsu Kaisen, I’d be summoning shikigami made of pointers, regex, and async functions.
 
-## My ASCII Signature
-Check out this terminal art—crafted with the same precision I bring to my code:
 
-```plaintext
-  ███████▓    ▒█████  █     █▓██   ██▓
-▓██   ▓██▒   ▒██▒  ██▓█░ █ ░█░▒██  ██▒
-▒████ ▒██░   ▒██░  ██▒█░ █ ░█  ▒██ ██░
-░▓█▒  ▒██░   ▒██   ██░█░ █ ░█  ░ ▐██▓░
-░▒█░  ░██████░ ████▓▒░░██▒██▓  ░ ██▒▓░
- ▒ ░  ░ ▒░▓  ░ ▒░▒░▒░░ ▓░▒ ▒    ██▒▒▒ 
- ░    ░ ░ ▒  ░ ░ ▒ ▒░  ▒ ░ ░  ▓██ ░▒░ 
- ░ ░    ░ ░  ░ ░ ░ ▒   ░   ░  ▒ ▒ ░░  
-          ░  ░   ░ ░     ░    ░ ░     
-                              ░ ░
+## Lets Connect
+- [X](https://x.com/k_flowstate)
