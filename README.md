@@ -18,7 +18,7 @@
 ##  About Me
 -  Comfortable working both in the **terminal** and the **browser**.  
 - ⚡ **C** for performance and control, **Python** for fast prototyping, and **JavaScript** for creating on the web.  
--  Obsessed with learning by building—whether that’s small utilities, experimental servers, or terminal-based apps.  
+-  Obsessed with learning by building whether that’s small utilities, experimental servers, or terminal-based apps.  
 -  If coding were anime, my cursed technique would probably involve pointers, regex, and async functions.  
 
 ---
