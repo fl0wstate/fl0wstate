@@ -1,22 +1,34 @@
 <table>
-    <tr>
-        <td>
-            <img src="https://i.pinimg.com/originals/7f/87/2a/7f872a820881704a93ac97aff420ae24.gif" height="auto" width="500px" />
-        </td>
-        <td style="width:50%">
-            <h3>"I am fl0wstate."</h3>
-            <p>I live for the grind of programming whether it’s the raw power of C, the sleek flexibility of Python, or the wild chaos of JavaScript. <br/>Welcome to my domain, where logic flows like cursed energy.</p>
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/7f/87/2a/7f872a820881704a93ac97aff420ae24.gif" height="auto" width="500px" />
+    </td>
+    <td style="width:50%">
+      <h3>Hey, I'm <strong>fl0wstate</strong> 👋</h3>
+      <p>
+        I enjoy building things from scratch, experimenting with new ideas, and pushing my limits as a developer.  
+        From low-level C programs to Python prototypes and full-on web projects in JavaScript, coding is where I enter the flowstate.
+      </p>
+    </td>
+  </tr>
 </table>
 
-## About Me
-- I’m a programmer who thrives in the terminal and the browser alike. 
-- C gives me control down to the metal, Python lets me prototype like a mad scientist, and JavaScript brings my ideas to life on the web. 
-- If I were in Jujutsu Kaisen, I’d be summoning shikigami made of pointers, regex, and async functions.
+---
 
-## Current Projects-flow
-- creating a simple socket-web-server for my custom terminal chat room - [socketServer](https://github.com/fl0wstate/c-deep-dive/tree/main/sockets)
-- building discord-like chat room but to be entirely runned on the terminal - [tchat](https://github.com/fl0wstate/c-deep-dive/tree/main/chat-app)
-## Lets Connect
-- [X](https://x.com/k_flowstate)
+## 🚀 About Me
+- 💻 Comfortable working both in the **terminal** and the **browser**.  
+- ⚡ **C** for performance and control, **Python** for fast prototyping, and **JavaScript** for creating on the web.  
+- 🎯 Obsessed with learning by building—whether that’s small utilities, experimental servers, or terminal-based apps.  
+- 🎬 If coding were anime, my cursed technique would probably involve pointers, regex, and async functions.  
+
+---
+
+## 🛠 Current Projects
+- 🔌 [**socketServer**](https://github.com/fl0wstate/c-deep-dive/tree/main/sockets) – a lightweight socket-based web server for my custom terminal chat room.  
+- 💬 [**tchat**](https://github.com/fl0wstate/c-deep-dive/tree/main/chat-app) – a Discord-like chat room, designed to run entirely in the terminal.  
+
+---
+
+## 🌐 Let’s Connect
+- 🐦 [Twitter / X](https://x.com/k_flowstate)  
+
